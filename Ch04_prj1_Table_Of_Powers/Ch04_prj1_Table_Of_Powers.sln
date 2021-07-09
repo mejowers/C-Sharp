@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04_prj1_Table_Of_Powers", "Ch04_prj1_Table_Of_Powers\Ch04_prj1_Table_Of_Powers.csproj", "{0068168F-DB90-4A11-A025-85E4415D0797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0068168F-DB90-4A11-A025-85E4415D0797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0068168F-DB90-4A11-A025-85E4415D0797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0068168F-DB90-4A11-A025-85E4415D0797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0068168F-DB90-4A11-A025-85E4415D0797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDD98B05-21BA-475B-B42E-88CC81D59C1D}
+	EndGlobalSection
+EndGlobal

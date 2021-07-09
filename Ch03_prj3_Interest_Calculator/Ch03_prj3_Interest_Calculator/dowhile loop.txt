@@ -1,0 +1,11 @@
+var done = false;
+do {
+
+
+} while (!done);
+
+
+static bool AskIfDone();
+Console.Write("Are you done? ");
+var answer = Console.ReadLine().ToLower() == "y";
+return answer;
